@@ -1,2 +1,2 @@
-def only_odd_digits(n: list[int]) -> bool:
-    return False
+def only_odd_digits(n: int) -> bool:
+    return True
