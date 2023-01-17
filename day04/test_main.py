@@ -10,5 +10,5 @@ def test_only_odd_digits():
             71358: False,
             0: False}
 
-    for n, expected in test_cases:
+    for n, expected in test_cases.items():
         assert(only_odd_digits(n) == expected)
