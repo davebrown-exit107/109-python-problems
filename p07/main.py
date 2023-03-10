@@ -1,2 +1,2 @@
-def colour_trio(colours):
-    pass
+def colour_trio(colours: str) -> str:
+    return ''
